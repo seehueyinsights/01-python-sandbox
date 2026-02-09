@@ -12,4 +12,10 @@ This repository contains my early attempts at Python coding. Each folder represe
 *   **Method:** Uses Pandas to extract table data and map coordinates (x, y) to a visual grid.
 *   **Result:** A rendered graphic from raw data.
 
+### 2. [SQLite Extractor Project](./sqlite_extractor-project)
+**Objective:** To access an external db via URL, download and extract the contents of the db into a local folder '\data'.
+*   **Input:** URL Argument
+*   **Method:** Uses `requests` and `tempfile` to process the database in memory, dynamically identifies tables using SQL introspection, and iterates through them.
+*   **Result:** Individual CSV files for each table found in the database
+
 ---
