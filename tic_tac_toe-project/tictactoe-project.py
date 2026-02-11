@@ -1,6 +1,9 @@
 """
-Tic-Tac-Toe Game (ver 2)
-----------------
+Tic-Tac-Toe
+Current Version: 2.0 (Feb 2026)
+-------------------------------
+Refactored version with functions and input validation.
+-------------------------------
 A simple 2-player terminal game.
 Author: see.huey.insights
 """
