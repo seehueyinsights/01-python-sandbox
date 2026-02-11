@@ -1,5 +1,8 @@
 """
-Tic-Tac-Toe Game (ver 1)
+Tic-Tac-Toe (Legacy Version)
+Created: June 2022
+----------------------------
+Original implementation. Kept for archival purposes.
 ----------------
 A simple 2-player terminal game.
 Author: see.huey.insights
