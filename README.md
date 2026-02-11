@@ -18,7 +18,7 @@ This repository contains my early attempts at Python coding. Each folder represe
 *   **Method:** Uses `requests` and `tempfile` to process the database in memory, dynamically identifies tables using SQL introspection, and iterates through them.
 *   **Result:** Individual CSV files for each table found in the database
 
-### 3. [Tic-Tac-Toe Game](./tic_tac_toe)
+### 3. [Tic-Tac-Toe Game](./tic_tac_toe-project)
 **Objective:** To build an interactive, logic-based 2-player game that runs entirely in the command-line interface.
 *   **Input:** User console input (integers 1-9) representing grid coordinates.
 *   **Method:** Utilizes Python lists to manage board state, implements `while` loops for robust input validation, and employs algorithmic checks against pre-defined winning tuples (horizontal, vertical, and diagonal) to determine game status.
