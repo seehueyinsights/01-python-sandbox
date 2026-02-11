@@ -2,6 +2,11 @@
 
 This is a terminal-based Tic-Tac-Toe game.
 
+**Versions:**
+*   **[v2.0 Optimized (2026)](./tictactoe.py):** Current version. Features robust input validation, dynamic win-checking functions, and a cleaner interface.
+*   **[v1.0 Legacy (2022)](./tictactoe_legacy_2022.py):** Original implementation using basic control flow. Kept to demonstrate coding progress and refactoring skills.
+
+
 ## Logic
 
 1. **Initialize Grid:** Create a 3x3 mapping (Top, Middle, Bottom).
