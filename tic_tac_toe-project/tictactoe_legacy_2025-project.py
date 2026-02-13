@@ -1,6 +1,6 @@
 """
 Tic-Tac-Toe
-Current Version: 2.0 (Feb 2026)
+Current Version: 2.0 (April 2025)
 -------------------------------
 Refactored version with functions and input validation.
 -------------------------------
